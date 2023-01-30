@@ -23,9 +23,9 @@ switch($path){
     case 'signup':
         require "pages/signup.php";
         break;  
-    case 'dashboard':
-        require "pages/dashboard.php";
-        break;  
+    // case 'dashboard':
+    //     require "pages/dashboard.php";
+    //     break;  
     case 'post':
         require "pages/post.php";
         break;
